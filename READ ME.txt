@@ -1,9 +1,0 @@
-Func_dh			位姿矩阵函数
-Func_fkine		正运动学方程函数
-Func_ikine		逆运动学解优化函数
-Func_ikine_7bot		逆运动学解函数（8组解）
-Func_ikine_7bot_1	逆运动学解函数（1组解）
-Func_inv_robot		位姿矩阵求逆函数
-huixuanjiu		回旋灸算法
-quezhuojiu		雀啄灸算法
-kine_7bot		机械臂建模
